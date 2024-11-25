@@ -1,0 +1,29 @@
+
+{
+    "hotelFormLabels":[{
+        "hotelName": "Hotel Name",
+        "address": "Address",
+        "city": "City",
+        "state": "State",
+        "country": "Country",
+        "postalCode": "Postal Code",
+        "phoneNumber": "Mobile",
+        "contactPerson": "Contact Person",
+        "email": "Email",
+        "website": "Website",
+        "amenity": "Amenity",
+        "hoteltype": "Hotel Type",
+        "pricePerNight": "Price/Night",
+        "startDate": "Start Date",
+        "endDate": "End Date"
+    }],
+    "roomFormLabels":[{
+        "amenities": "Address",
+        "capacity": "Capacity",
+        "startDate": "Start Date",
+        "endDate": "End Date",
+        "pricePerNight": "Price/Night",
+        "roomNumber": "Room No.",
+        "roomtype": "Room Type"        
+    }]
+} 
