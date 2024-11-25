@@ -1,0 +1,15 @@
+{"hotels": {
+    hotel_id,
+    hotel_name,
+    address,
+    city,
+    state,
+    country,
+    postal_code,
+    phone_number,
+    contact_person,
+    email,
+    website,
+    price_per_night,
+}}    
+    
