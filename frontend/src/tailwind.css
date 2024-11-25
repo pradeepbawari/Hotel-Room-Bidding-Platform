@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    font-family: "lato";
+}
+
+.container{
+    max-width: 1200px;
+}
+.container-search{
+    max-width: 1000px;
+}
+.bg-red-500, .bg-red-700{
+    background: linear-gradient(90deg, rgb(255, 73, 89), rgb(255, 104, 74));
+}
+.bg-banner{
+    background: linear-gradient(180deg, #0c2540, #174476);
+}
+.bg-header{
+    background: #fff;
+    color: #000;
+}
+.col-span-0 {
+    color: red;
+    max-width: 40px;
+    border: 1px solid #ccc;
+}
+.end-position {
+    inset-inline-end: -10px;
+}
+input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+}
+.filter-flex{
+    display: flex;
+    align-items: self-end;
+}
+.min-h-277{
+    min-height: 200px;
+}
+.mt-100{
+    margin-top: -48px;
+}
+.w-85{
+    width: 22rem;
+}
+
+@media (min-width: 768px) {
+    .thumbnail{
+        width: 25%;
+    }
+    .mt-100{
+        margin-top: -100px;
+    }
+}
